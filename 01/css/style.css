@@ -1,0 +1,14 @@
+body {
+    background: red;
+    color: black;
+}
+
+.test-1 {
+    background: papayawhip;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.test-1 p {
+    font-size: 20px;
+    color: green;
+}
