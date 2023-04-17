@@ -1,0 +1,33 @@
+body {
+    padding: 25%;
+    font-size: 2rem;
+}
+
+input,
+button {
+    font: inherit;
+}
+
+p {
+    /* text-align: justify; */
+    text-indent: 2em;
+    line-height: 1.5;
+    font-style: oblique;
+    /* letter-spacing: 1em; */
+    /* word-spacing: 1.5; */
+}
+
+a {
+    cursor: copy;
+    text-decoration: line-through;
+    color: rgb(165, 42, 42);
+}
+
+a:hover {
+    color: rgb(165, 42, 42, 0.8);
+}
+
+a:active,
+a:visited {
+    color: rgb(165, 42, 42);
+}
