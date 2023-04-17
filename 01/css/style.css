@@ -1,14 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+.root {
+    width: 50%;
+}
+
 body {
-    background: red;
+    background: blue;
     color: black;
 }
 
 .test-1 {
+    font-size: 16px;
+    border: 20px;
     background: papayawhip;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .test-1 p {
-    font-size: 20px;
+    border: 0.2em dashed yellowgreen;
+    font-size: 1em;
+    padding: 1em;
     color: green;
 }
